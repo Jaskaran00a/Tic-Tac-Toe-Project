@@ -8,9 +8,7 @@ body{
     
 }
 .container{
-    height: 70vh;
-   
-    
+    height: 60vh;
     padding-top: 40px;
     display: flex;
     flex-wrap: wrap;
@@ -21,12 +19,12 @@ body{
 .game{
     height: 60vmin;
     width: 60vmin;
-    
+    margin: auto, 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
-    gap: 15px;
+    gap: 1px;
  
 }
 .box{
@@ -61,10 +59,10 @@ body{
 }
 #msg{
     color: blanchedalmond;
-    font-size: 5vmin;
+    font-size: 10vmin;
 }
 .msgcontainer{
-    height:30vmin ;
+    height:10% ;
 }
 .hide{
     display: none;
