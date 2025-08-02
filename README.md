@@ -32,7 +32,7 @@
 ## 📸 Demo Screenshot
 
 <p align="center">
-  <img src="https://your-image-link-here.png" width="500" alt="Tic Tac Toe Game UI">
+  <img src="https://github.com/user-attachments/assets/3b7952bd-52f3-4fec-8b06-d76a704ea7a9" width="500" alt="Tic Tac Toe Game UI">
 </p>
 
 ---
